@@ -18,12 +18,6 @@ I'm passionate about technology, problem solving, and building projects that mak
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mysql,postgresql,git,linux,figma&perline=7" />
 
-## 🚀 Projects
-
-Some highlights from my repositories:
-- [⭐ Analisis-Benchmark-Gpu-Untuk-Hasil-Cost-To-Performance-Terbaik](https://github.com/muliarhmh/Analisis-Benchmark-Gpu-Untuk-Hasil-Cost-To-Performance-Terbaik): An interactive Streamlit web app for GPU cost-to-performance analysis.
-- [⭐ Your Other Repo](https://github.com/adjimaulanap/your-other-repo): A brief description of another project.
-
 Check out my pinned repositories for more!
 
 ## 📈 GitHub Stats
